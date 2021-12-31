@@ -1,13 +1,13 @@
 # Frontend Mentor - Base Apparel coming soon page solution
 
-:point_right: This is the [Base Apparel coming soon page](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-GJPWhpAji) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm10_base_apparel_coming_soon_page/)
 
 Give a ⭐️ if you like this project!
 
